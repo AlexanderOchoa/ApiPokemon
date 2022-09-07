@@ -5,6 +5,7 @@
 - [Dependencies](#dependencies) 
 - [Pre-requisites to run the application](#prerequisitestoruntheapplication) 
 - [Built with](#builtwith) 
+- [Deploy with Heroku](#publicdeployheroku) 
 - [Exposed endpoints](#exposedendpoints) 
 
 ----------
@@ -38,9 +39,9 @@ List pokemons and their description with pagination.
 * ***Maven*** - Dependency manager
 
 ----------
-<div id='exposedendpoints'/>
+<div id='deployheroku'/>
 
-### Public deploy with heroku
+### Deploy with Heroku
 Commands with sdk of Heroku:
 
 git init
@@ -52,6 +53,9 @@ git commit -m "deploy"
 heroku apps:create unique-api-name
 
 git push heroku master
+
+----------
+<div id='exposedendpoints'/>
 
 ### Exposed endpoints
 
