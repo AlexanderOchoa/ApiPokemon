@@ -5,7 +5,7 @@
 - [Dependencies](#dependencies) 
 - [Pre-requisites to run the application](#prerequisitestoruntheapplication) 
 - [Built with](#builtwith) 
-- [Deploy with Heroku](#publicdeployheroku) 
+- [Deploy with Heroku](#deployheroku) 
 - [Exposed endpoints](#exposedendpoints) 
 
 ----------
